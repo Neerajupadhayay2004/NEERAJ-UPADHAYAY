@@ -1,292 +1,282 @@
-# NEERAJ-UPADHAYAY
-NEERAJ UPADHAYAY
-# Cyber Gita OSINT & Threat Intelligence Suite
+# 👋 Hi, I'm Neeraj Upadhayay
 
-## Overview
+## 🚀 Cybersecurity | OSINT | Threat Intelligence | Full Stack Developer
 
-The Cyber Gita OSINT & Threat Intelligence Suite is a collection of three cybersecurity-focused applications developed for digital investigations, threat intelligence gathering, social media analysis, and brand protection.
-
-These tools help cybersecurity professionals, OSINT researchers, threat analysts, and digital investigators collect, analyze, and visualize publicly available information for security and intelligence purposes.
-
-## Projects Included
-
-### 1. Social Media Metadata Analyzer
-
-A professional OSINT tool designed to extract and analyze metadata from social media platforms and digital content.
-
-#### Features
-
-* Social Media Profile Analysis
-* Metadata Extraction
-* Timeline & Activity Analysis
-* Digital Footprint Investigation
-* Risk Assessment Dashboard
-* Exportable Investigation Reports
-* Data Visualization & Analytics
-
-#### Use Cases
-
-* Social Media Intelligence (SOCMINT)
-* Cyber Investigations
-* Digital Forensics
-* Profile Verification
-* Threat Intelligence Research
+Passionate about building secure, scalable, and intelligence-driven applications for cybersecurity, digital investigations, and threat analysis. I enjoy developing modern web applications that combine strong engineering practices with practical security use cases.
 
 ---
 
-### 2. Profile Intelligence Tool
+# 🛡️ Featured Projects
 
-An OSINT platform that aggregates publicly available information related to usernames, social profiles, and digital identities.
+## 🚨 Cyber Crime Reporting Portal
 
-#### Features
+A modern, secure, and responsive cyber crime reporting platform that enables citizens to report cyber incidents, upload digital evidence, track complaint status, and receive investigation updates.
 
-* Username Enumeration
-* Digital Footprint Discovery
-* Social Media Correlation
-* Identity Verification
-* Public Information Aggregation
-* Investigation Dashboard
-* Risk Scoring System
-* Intelligence Reporting
+### Features
 
-#### Use Cases
+- Incident Reporting System
+- Secure Evidence Upload
+- Case Tracking Dashboard
+- Investigation Workflow
+- Citizen Dashboard
+- Complaint Status Timeline
+- Responsive UI
+- Modern Government-inspired Design
+- Form Validation
+- Production-ready Architecture
 
-* Identity Intelligence
-* Threat Actor Profiling
-* Background Research
-* Cyber Investigations
-* Digital Presence Analysis
+### Tech Stack
 
----
-
-### 3. Brand Monitoring Tool
-
-A cybersecurity-focused monitoring platform developed to detect brand abuse, impersonation attempts, fake pages, and suspicious online activities.
-
-#### Features
-
-* Keyword Monitoring
-* Brand Mention Tracking
-* Fake Page Detection
-* Brand Impersonation Detection
-* Public Mention Monitoring
-* Threat Intelligence Dashboard
-* Alert Generation
-* Risk Classification
-
-#### Use Cases
-
-* Brand Protection
-* Reputation Management
-* Fraud Detection
-* Threat Monitoring
-* Digital Risk Protection
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- TanStack Router
+- React Hook Form
+- Zod
+- Framer Motion
 
 ---
 
-## Technology Stack
+## 🔍 Cyber Gita OSINT & Threat Intelligence Suite
 
-### Backend
+A collection of cybersecurity tools built for Open Source Intelligence (OSINT), digital investigations, threat intelligence, and brand protection.
 
-* Python
-* FastAPI
-* SQLite
-* REST APIs
+---
+
+### 📌 Social Media Metadata Analyzer
+
+A professional SOCMINT platform for extracting and analyzing publicly available metadata from social media content.
+
+#### Features
+
+- Social Media Metadata Analysis
+- Digital Footprint Mapping
+- Timeline Analysis
+- Risk Assessment
+- Investigation Reports
+- Analytics Dashboard
+
+#### Use Cases
+
+- SOCMINT
+- Digital Forensics
+- Cyber Investigations
+- Threat Intelligence
+- Profile Verification
+
+---
+
+### 🕵️ Profile Intelligence Tool
+
+An OSINT platform that aggregates publicly available information related to usernames and online identities.
+
+#### Features
+
+- Username Enumeration
+- Profile Correlation
+- Digital Identity Discovery
+- Public Information Aggregation
+- Risk Scoring
+- Investigation Dashboard
+
+#### Use Cases
+
+- Identity Intelligence
+- Threat Actor Profiling
+- Background Research
+- Digital Presence Analysis
+- Cyber Investigations
+
+---
+
+### 🛡️ Brand Monitoring Tool
+
+A cybersecurity-focused monitoring platform for detecting fake pages, impersonation attempts, and suspicious online activities.
+
+#### Features
+
+- Keyword Monitoring
+- Brand Mention Tracking
+- Fake Page Detection
+- Brand Impersonation Detection
+- Alert Generation
+- Threat Intelligence Dashboard
+
+#### Use Cases
+
+- Brand Protection
+- Reputation Management
+- Fraud Detection
+- Digital Risk Protection
+
+---
+
+# 💻 Technical Skills
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- HTML5
+- CSS3
 
 ### Frontend
 
-* React.js
-* Vite
-* HTML5
-* CSS3
-* JavaScript
+- React
+- Vite
+- Tailwind CSS
+- TanStack Router
+- React Hook Form
+- Framer Motion
 
-### Additional Tools
+### Backend
 
-* Chart.js
-* OSINT APIs
-* Data Visualization Libraries
+- FastAPI
+- REST APIs
+- Node.js
+- Express.js
+
+### Databases
+
+- SQLite
+- PostgreSQL
+- MySQL
+
+### Cybersecurity
+
+- Open Source Intelligence (OSINT)
+- Social Media Intelligence (SOCMINT)
+- Threat Intelligence
+- Digital Footprint Analysis
+- Brand Monitoring
+- Digital Investigations
+- Risk Assessment
+- Metadata Analysis
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Docker
+- Chart.js
 
 ---
 
-## Installation
+# 📂 Repository Structure
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/project-name.git
-cd project-name
 ```
-
----
-
-## Backend Setup
-
-Navigate to the backend directory:
-
-```bash
-cd backend
-```
-
-Create a virtual environment:
-
-```bash
-python -m venv venv
-```
-
-Activate the virtual environment:
-
-### Linux / macOS
-
-```bash
-source venv/bin/activate
-```
-
-### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the FastAPI server:
-
-```bash
-uvicorn app.main:app --reload
-```
-
-Backend will be available at:
-
-```text
-http://localhost:8000
-```
-
-API Documentation:
-
-```text
-http://localhost:8000/docs
+.
+├── Cyber Crime Reporting Portal
+├── Social Media Metadata Analyzer
+├── Profile Intelligence Tool
+├── Brand Monitoring Tool
+└── README.md
 ```
 
 ---
 
-## Frontend Setup
+# 🚀 Getting Started
 
-Open a new terminal and navigate to the frontend directory:
+Clone the repository
 
 ```bash
-cd frontend
+git clone https://github.com/Neerajupadhayay2004/REPOSITORY_NAME.git
 ```
 
-Install dependencies:
+Move into the project
+
+```bash
+cd REPOSITORY_NAME
+```
+
+Install dependencies
 
 ```bash
 npm install
 ```
 
-Start the development server:
+Run the project
 
 ```bash
 npm run dev
 ```
 
-Frontend will be available at:
+Production build
 
-```text
-http://localhost:5173
+```bash
+npm run build
 ```
 
 ---
 
-## Project Structure
+# 🎯 Future Roadmap
 
-```text
-project-name/
-│
-├── backend/
-│   ├── app/
-│   ├── exports/
-│   ├── reports/
-│   ├── requirements.txt
-│   └── osint_platform.db
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   ├── package.json
-│   └── vite.config.js
-│
-├── README.md
-└── LICENSE
-```
+- AI-powered Threat Intelligence
+- Machine Learning Risk Scoring
+- Evidence Encryption
+- Investigation Automation
+- Real-time Monitoring
+- Dark Web Intelligence Integration
+- Interactive Analytics Dashboard
+- Multi-source OSINT Correlation
+- Advanced Search Engine
+- Report Generation
 
 ---
 
-## Key Capabilities
+# 🔒 Security & Responsible Use
 
-* Open Source Intelligence (OSINT)
-* Social Media Intelligence (SOCMINT)
-* Metadata Analysis
-* Digital Footprint Mapping
-* Threat Intelligence Collection
-* Risk Assessment
-* Investigation Reporting
-* Brand Monitoring
-* Scam Detection
-* Profile Correlation
+These projects are intended for:
 
----
+- Cybersecurity Research
+- Security Education
+- Threat Intelligence
+- Digital Investigations
+- Defensive Security
+- Authorized Security Assessments
 
-## Future Enhancements
-
-* AI-Powered Threat Detection
-* Machine Learning Risk Scoring
-* Real-Time Monitoring
-* Automated Investigation Reports
-* Multi-Source Data Correlation
-* Dark Web Intelligence Integration
-* Advanced Analytics Dashboard
+All tools should be used responsibly and in compliance with applicable laws and regulations.
 
 ---
 
-## Security & Ethics
-
-This project is intended solely for:
-
-* Educational Purposes
-* Cybersecurity Research
-* Threat Intelligence
-* Digital Investigations
-* Authorized Security Assessments
-
-Users are responsible for complying with applicable laws, regulations, and privacy requirements. Unauthorized monitoring, data collection, or misuse of information is strictly discouraged.
-
----
-
-## Author
+# 👨‍💻 About Me
 
 **Neeraj Upadhayay**
 
-B.Tech – Computer Science Engineering
+🎓 B.Tech – Computer Science & Engineering (Cyber Security)
 
-Cybersecurity Researcher | OSINT Analyst | Threat Intelligence Enthusiast
+### Interests
 
-Focused on:
-
-* Open Source Intelligence (OSINT)
-* Digital Forensics
-* Cyber Investigations
-* Threat Intelligence
-* Security Research
+- Cybersecurity
+- OSINT
+- Threat Intelligence
+- Digital Forensics
+- Full Stack Development
+- Secure Software Engineering
+- Security Research
 
 ---
 
-## License
+# 📫 Connect With Me
 
-This project is released under the MIT License.
+- GitHub: https://github.com/Neerajupadhayay2004
+- LinkedIn: *(Add your LinkedIn profile here)*
 
-Feel free to use, modify, and distribute this project for educational and research purposes.
+---
+
+# ⭐ Support
+
+If you find these projects useful, consider giving them a ⭐ Star on GitHub.
+
+Contributions, suggestions, and feedback are always welcome.
+
+---
+
+# 📄 License
+
+Licensed under the **MIT License**.
